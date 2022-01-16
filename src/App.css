@@ -1,0 +1,51 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 50px;
+}
+
+.Header {
+  display: flex;
+  column-gap: 50px;
+}
+
+.UserBox {
+  width: 600px ;
+  font-size: 36px;
+  border-radius: 10px;
+  background-color: #1b117a;
+  color: #e1e1b0;
+  padding: 20px;
+  padding-top: 200px;
+  display: flex;
+  column-gap: 20px;
+  row-gap: 120px;
+  flex-direction: column;
+}
+
+.CommentBox {
+  width: 1900px ;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: #1b117a;
+  color: #e1e1b0;
+  padding: 20px;
+  display: flex;
+  column-gap: 20px;
+  row-gap: 20px;
+  flex-wrap: wrap;
+}
+
+.PostBox {
+  width: 1400px ;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: #1b117a;
+  color: #e1e1b0;
+  padding: 20px;
+  display: flex;
+  column-gap: 20px;
+  row-gap: 20px;
+  flex-wrap: wrap;
+}

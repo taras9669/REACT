@@ -1,0 +1,8 @@
+.UserDiv {
+    width: 600px;
+    border: solid #e1e1b0 3px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
